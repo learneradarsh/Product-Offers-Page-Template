@@ -1,0 +1,22 @@
+{
+  "name": "product_page_template",
+  "version": "1.0.0",
+  "description": "Sample Product offers listing page for Internship Purpose Only",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learneradarsh/Product-Offers-Page-Template.git"
+  },
+  "keywords": [
+    "Smaple-Product-Offers-Page"
+  ],
+  "author": "Adarsh Learner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learneradarsh/Product-Offers-Page-Template/issues"
+  },
+  "homepage": "https://github.com/learneradarsh/Product-Offers-Page-Template#readme"
+}
